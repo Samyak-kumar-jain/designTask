@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+
+  
+  
+  
+}
+
+.main{
+  /* background-color: aliceblue; */
+  padding: 0px 100px;
+  /* border: 1px solid gray; */
+  margin: 2px;
+  
+}
+
+@media (max-width:820){
+  .main{
+    padding: 0px;
+  }
+}
+
+
+
+
+
+
+
